@@ -1,0 +1,14 @@
+{
+    "name": "radmiraal/surfjobs",
+    "type": "typo3-flow-package",
+    "description": "",
+    "require": {
+        "typo3/flow": "*",
+        "typo3/surf": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Radmiraal\\SurfJobs": "Classes"
+        }
+    }
+}
